@@ -5,6 +5,7 @@ This was the result of a quick exercise to demonstrate the use of Power BI using
 - Interactivity
 - Geographic visuals
 - Sales segmentation
+
 While this could not be shared directly to the web due to permissions, it is a snapshot of the project. 
 
 ---
